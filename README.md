@@ -1,4 +1,6 @@
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4479398.svg)](https://doi.org/10.5281/zenodo.4479398)
+
 # Secondary Forest regrowth in Amazonia, Brazil
 This repository contains the code used to produce the figures in the main paper of Heinrich et al.
 
