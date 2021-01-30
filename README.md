@@ -43,7 +43,7 @@ The data produced in this project were produced using a combination of programmi
 ## Dataset access and credit
 The final data can be accessed from the Zenodo repository:https://zenodo.org/deposit/4290633 
 
-All code shown here is based on the work by Heinrich et al. and forms the basis my (Viola Heinrich) PhD research. If you make use of any of the code, methodology or data, please cite Heinrich et al. 2021. 
+All code shown here is based on the work by Heinrich et al. and forms the basis my (Viola Heinrich) PhD research. If you make use of any of the code, methodology or data, please cite the main paper Heinrich et al. 2021 and any associated Data and Code DOIs. Thank you.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
